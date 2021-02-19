@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EasyNavigation-master.iml" filepath="$PROJECT_DIR$/.idea/EasyNavigation-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyNavigation-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyNavigation-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/easynavigation/EasyNavigation-master.easynavigation.iml" filepath="$PROJECT_DIR$/.idea/modules/easynavigation/EasyNavigation-master.easynavigation.iml" />
+    </modules>
+  </component>
+</project>
